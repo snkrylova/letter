@@ -1,0 +1,45 @@
+html {
+  background-color: #fce38a;
+}
+
+body {
+  background-color: #fff;
+  color: #2f280b;
+  max-width: 800px;
+  margin: 15px auto 25px;
+  padding: 15px;
+  box-shadow: 10px 10px #dad7d7;
+  box-shadow: 10px 10px #837c63cb;
+}
+
+.sender-column {
+  text-align: right;
+}
+
+h1 {
+  font-size: 1.5em;
+}
+
+h2 {
+  font-size: 1.3em;
+}
+
+p,
+ul,
+ol,
+dl,
+address {
+  font-size: 1.1em;
+}
+
+p,
+li,
+dd,
+dt,
+address {
+  line-height: 1.5;
+}
+
+a {
+  color: #c5a637;
+}
